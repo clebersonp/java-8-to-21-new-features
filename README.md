@@ -18,7 +18,7 @@
 
 ## [Java 16 - New Features](https://www.oracle.com/java/technologies/javase/16-relnote-issues.html)
 > New features
-- [ ] [JEP 395: Records](https://openjdk.org/jeps/395)
+- [x] [JEP 395: Records](https://openjdk.org/jeps/395)
 - [x] [JEP 394: Pattern Matching for instanceof](https://openjdk.org/jeps/394)
 
 ## [Java 15 - New Features](https://www.oracle.com/java/technologies/javase/15-relnote-issues.html)
