@@ -14,7 +14,7 @@
 
 ## [Java 17 - New Features](https://www.oracle.com/java/technologies/javase/17-relnote-issues.html)
 > New features
-- [ ] [JEP 409: Sealed Classes](https://openjdk.org/jeps/409)
+- [x] [JEP 409: Sealed Classes](https://openjdk.org/jeps/409)
 
 ## [Java 16 - New Features](https://www.oracle.com/java/technologies/javase/16-relnote-issues.html)
 > New features
