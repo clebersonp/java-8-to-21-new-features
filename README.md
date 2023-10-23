@@ -23,7 +23,7 @@
 
 ## [Java 15 - New Features](https://www.oracle.com/java/technologies/javase/15-relnote-issues.html)
 > New features
-- [ ] [JEP 378: Text Blocks](https://openjdk.org/jeps/378)
+- [x] [JEP 378: Text Blocks](https://openjdk.org/jeps/378)
 
 ## [Java 13 - New Features](https://www.oracle.com/java/technologies/javase/13-relnote-issues.html)
 > New features
