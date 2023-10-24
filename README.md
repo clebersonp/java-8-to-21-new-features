@@ -10,7 +10,7 @@
 - [ ] [Virtual Threads](https://openjdk.org/jeps/444)
 - [ ] [Sequenced Collections](https://openjdk.org/jeps/431)
 - [ ] [Structured Concurrency (Preview)](https://openjdk.org/jeps/453)
-- [ ] [Scoped Values (Preview)](https://openjdk.org/jeps/446)
+- [x] [Scoped Values (Preview)](https://openjdk.org/jeps/446)
 
 ## [Java 17 - New Features](https://www.oracle.com/java/technologies/javase/17-relnote-issues.html)
 > New features
