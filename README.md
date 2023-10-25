@@ -6,7 +6,7 @@
 - [ ] [Pattern Matching for switch](https://openjdk.org/jeps/441)
 - [ ] [String Templates (Preview)](https://openjdk.org/jeps/430)
 - [ ] [Unnamed Patterns and Variables (Preview)](https://openjdk.org/jeps/443)
-- [ ] [Unnamed Classes and Instance Main Methods (Preview)](https://openjdk.org/jeps/445)
+- [x] [Unnamed Classes and Instance Main Methods (Preview)](https://openjdk.org/jeps/445)
 - [x] [Virtual Threads](https://openjdk.org/jeps/444)
 - [x] [Sequenced Collections](https://openjdk.org/jeps/431)
 - [x] [Structured Concurrency (Preview)](https://openjdk.org/jeps/453)
