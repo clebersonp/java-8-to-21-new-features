@@ -3,7 +3,7 @@
 ## [Java 21 - New Features](https://www.oracle.com/java/technologies/javase/21-relnote-issues.html)
 > New features and libraries improvements
 - [ ] [Record Patterns](https://openjdk.org/jeps/440)
-- [ ] [Pattern Matching for switch](https://openjdk.org/jeps/441)
+- [x] [Pattern Matching for switch](https://openjdk.org/jeps/441)
 - [x] [String Templates (Preview)](https://openjdk.org/jeps/430)
 - [x] [Unnamed Patterns and Variables (Preview)](https://openjdk.org/jeps/443)
 - [x] [Unnamed Classes and Instance Main Methods (Preview)](https://openjdk.org/jeps/445)
